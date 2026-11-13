@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smotherer007/pi-email.git"
+    "url": "https://github.com/patimweb-agents/pi-email.git"
   },
   "bugs": {
-    "url": "https://github.com/Smotherer007/pi-email/issues"
+    "url": "https://github.com/patimweb-agents/pi-email/issues"
   },
   "scripts": {
     "build": "echo 'No build step defined'",
